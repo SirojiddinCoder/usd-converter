@@ -35,7 +35,7 @@ const App = () => {
 
   return (
     <div  className="container mt-5 pb-5">
-      <h2 className="text-center mb-4">(Hello Muxriddin) 1 USD to UZS - Convert US Dollars to Uzbekistani Sums</h2>
+      <h2 className="text-center mb-4"> 1 USD to UZS - Convert US Dollars to Uzbekistani Sums</h2>
       <div className="row">
         {/* Valyuta kurslari */}
         <div className="col-md-6">
